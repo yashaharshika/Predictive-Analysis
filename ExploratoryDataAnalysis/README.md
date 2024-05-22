@@ -7,4 +7,4 @@ The exploratory data analysis (EDA) was performed in Python using various librar
 * Bivariate analysis to examine the relationships between pairs of variables.
 * Multivariate analysis to investigate the interactions between multiple variables.
 
-For detailed information on the EDA steps and the insights gained, refer to the document: [EDA](path/to/your/eda_summary.pdf).
+For detailed information on the EDA steps and the insights gained, refer to the document: [EDA](https://github.com/yashaharshika/Predictive-Analysis/blob/main/ExploratoryDataAnalysis/EDA.pdf).
